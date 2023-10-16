@@ -1,1 +1,1 @@
-https://github.com/Ludeme/LudiiAICompetition.gi
+https://github.com/Ludeme/LudiiAICompetition.git
